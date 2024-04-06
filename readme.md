@@ -11,5 +11,5 @@ pip install requirements.txt
 After that run in your terminal: 
 
 ```
-streamlit run project
+streamlit run project.py
 ```
